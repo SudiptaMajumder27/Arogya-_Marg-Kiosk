@@ -17,10 +17,10 @@ The Arogya Marg Online Doctor Appointment Kiosk is a comprehensive platform that
 # Frontend:
 *![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 *![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
-* JavaScript
-* React.js + vite
+* ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+*![React.js](https://img.shields.io/badge/React.js-v17.0-blue?style=for-the-badge&logo=react)
 # Backend:
-* Node.js
+*![Node.js](https://img.shields.io/badge/Node.js-v14.17-green?style=for-the-badge&logo=node.js)
 
 # Screenshots
 1) Home Page -> ![Screenshot 2024-07-10 015340](https://github.com/SudiptaMajumder27/Arogya-_Marg-Kiosk/assets/143156739/8f02f0d2-bbb4-4929-94ee-8efcc13706c3)
