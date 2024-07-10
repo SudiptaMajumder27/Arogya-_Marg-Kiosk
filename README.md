@@ -25,8 +25,8 @@ The Arogya Marg Online Doctor Appointment Kiosk is a comprehensive platform that
 -> Virtual Consultations: Offer video appointments to reach patients where they’re comfortable.
 # Technologies Used
 # Frontend:
-* HTML
-* CSS
+* ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+* ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
 * JavaScript
 * React.js + vite
 # Backend:
