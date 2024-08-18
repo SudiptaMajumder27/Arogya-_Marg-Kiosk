@@ -1,4 +1,4 @@
-# Arogya-_Marg-Kiosk
+[# Arogya-_Marg-Kiosk
 
 # React + Vite
 
@@ -51,3 +51,4 @@ The Arogya Marg Online Doctor Appointment Kiosk is a comprehensive platform that
 # Acknowledgements
 Hack4Bengal Project
 
+](https://vivekananda.live/eshop/wp-content/uploads/2022/02/021-SV.jpg)
